@@ -1,1 +1,0 @@
-# grid-assist-prototype.github.io
